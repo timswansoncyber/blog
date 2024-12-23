@@ -1,4 +1,4 @@
 ---
-title: Tim Swanson
+title: Tim Swanson's Cybersecurity Blog
 ---
 
